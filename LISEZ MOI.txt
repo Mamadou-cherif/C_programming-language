@@ -1,0 +1,6 @@
+Note:
+-Dans le projet, vous rémarquerez que pour les options n°5 et n°6 du Menu principal j'ai choisi d'afficher l'arbre dans l'ordre décroissante; je pouvais aussi choisir
+de l'afficher dans l'ordre croissant. ça n'a pratiquement pas d'effets sur la somme des noeuds(n°5 du menu) et la somme des keys des noeuds(option n°6).
+- vous remarquerez également l'utilisation de la fonction systeme (system()) dans le projet, c'est pour un usage décoratif.
+		
+	

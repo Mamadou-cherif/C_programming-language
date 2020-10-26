@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1548450599 source:c:\users\cherif bee\desktop\openclassroom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
